@@ -1,0 +1,13 @@
+[top-grid] {
+    bottom: 50%;
+    height: 50%;
+}
+[bottom-grid] {
+    top: 50%;
+    height: 50%;
+}
+[top-grid], [bottom-grid] {
+    position: absolute;
+    width: 100%;
+    padding: 20% 0;
+}

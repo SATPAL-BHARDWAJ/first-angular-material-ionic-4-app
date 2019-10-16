@@ -1,0 +1,32 @@
+[flex-form] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+[size-md] {
+    width: 80%;
+}
+[height-sm]{
+    height: 2rem !important;
+}
+[size-sm] {
+    font-size: 0.8rem;
+}
+
+.form-field {
+	padding: 10px;
+}
+
+[top-grid] {
+    bottom: 70%;
+    height: 30%;
+}
+[bottom-grid] {
+    top: 30%;
+    height: 70%;
+}
+[top-grid], [bottom-grid] {
+    position: absolute;
+    width: 100%;
+    padding: 10% 0;
+}

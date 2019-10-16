@@ -1,0 +1,7 @@
+{
+  "name": "ionMD",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
